@@ -3,7 +3,7 @@
 -  I’m currently learning some basic codes
 -  I’m looking to collaborate to make a strong cyber team called RED-PHANTOMS
 -  Pronouns: male, he, him.
--  Fun fact: there's nothing funny about me tbh
+-  Fun fact: there's nothing funny about me tbh 
 
 <!---
 redphantom01/redphantom01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
